@@ -14,4 +14,4 @@ const teacher = {
 
 teacher.__proto__ = student;
 
-console.log(teacher.name);
+console.log(teacher.print());
